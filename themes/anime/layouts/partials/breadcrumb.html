@@ -1,0 +1,37 @@
+<ul class="d-f gg-5 breadcrumb">
+  <li><a href="/">Home</a></li>
+  {{ $rellink := "" }}
+  {{ range (split .RelPermalink "/") }}
+  {{ if gt (len . ) 0 -}}
+  {{ $rellink = printf "%s/%s" $rellink . }}
+  <li><a class="c-3" href="{{ $rellink }}">{{ humanize . }}</a></li>
+  {{ end }}
+  {{ end }}
+</ul>
+<!-- Breadcrumbs for articles -->
+{{ $urlParts := sub (len (split .RelPermalink "/")) 2 }}
+<!-- Pages -->
+{{ if eq $urlParts 2 }}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+  "@type": "ListItem",
+  "position": 1,
+  "name": "{{ .Site.Title }}",
+  "item": "{{ .Site.BaseURL }}"
+},{
+  "@type": "ListItem",
+  "position": 2,
+  "name": "{{ .CurrentSection.Section }}",
+  "item": "{{ .CurrentSection.Permalink }}"
+},{
+  "@type": "ListItem",
+  "position": 3,
+  "name": "{{ .Title }}",
+  "item": "{{ .Permalink }}"
+}]
+}
+</script>
+{{ end }}
