@@ -1,5 +1,5 @@
 ---
-title: "Anime Movies"
+title: "Movies Anime"
 keywords:
 - anime movie
 - cartoon movies

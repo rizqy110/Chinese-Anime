@@ -1,9 +1,11 @@
 ---
-title: "TVs Terbaru"
+title: "TV Anime"
 keywords:
-- Batch TV Anime Download
-- TV Batch
-- Anime TV
-- Download TV Batch Anime
-- Sub Indo Batch TV Lengkap
+- TV Anime Sub
+- Eng Sub TV
+- TV English Subbed
+- English Subtitle Anime TV
+- Anime TV Online
+- Watch TV Anime Free
+- TV Sub Anime
 ---

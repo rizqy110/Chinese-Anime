@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://dnime.pages.dev'
 languageCode = 'en-us'
 title = 'Dnime Pages'
 theme = 'anime'
@@ -6,8 +6,8 @@ enableRobotsTXT = 'true'
 paginate = 18
 
 [params]
-  Description = 'Best place to watch anime, Watch cartoon network online free, Anime website without ads, Watch old cartoons online free, Free anime websites to watch anime, Best anime streaming site, Anime websites to watch anime, Free anime streaming, Best free anime streaming service, Best free anime sites, Free anime sites to watch, Free anime streaming website, Anime websites without ads, Free anime streaming services, Best anime sites to watch anime, Best sites to watch anime, Anime free websites to watch, Anime streaming.'
-  favicon = 'https://img.icons8.com/color/1080/tanjiro-kamado.png'
+  Description = 'Best place to watch anime, Watch cartoon network online free, Anime website without ads, Watch old cartoons online free, Free anime websites to watch anime, Best anime streaming site, Official site to Watch and Download Donghua in English, Anime websites to watch anime, Free anime streaming, Best free anime streaming service, Best free anime sites, Free anime sites to watch, Free anime streaming website, Anime websites without ads, Free anime streaming services, Best anime sites to watch anime, Best sites to watch anime, Anime free websites to watch, Anime streaming.'
+  favicon = 'https://img.icons8.com/color/512/tanjiro-kamado.png'
   twitter = 'Rizqy'
 [markup.goldmark.renderer]
  unsafe = true

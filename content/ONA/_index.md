@@ -1,9 +1,10 @@
 ---
-title: "ONAs Terbaru"
+title: "ONA Anime"
 keywords:
-- Batch ONA Anime Download
-- ONA Batch
+- Chinese Anime
+- Watch Donghua Sub
+- Donghua English Subtitle
+- ONA Eng Sub
 - Anime ONA
-- Download ONA Batch Anime
-- Sub Indo Batch ONA Lengkap
+- Watch Ona Anime
 ---

@@ -118,6 +118,7 @@ genre:
 
 <div class="d-g ai-c gg-5">
 <button onclick="window.open('?kwf=anime/JujutsuKaisen0/Jujutsu Kaisen 0 The Movie')">Play Movie</button>
+<button onclick="window.open('?gog=jujutsu-kaisen-0-episode-1')">Play Movie</button>
 </div>
 <div class="bc-1 p-5 d-g gg-5">Snopsis: Violent misfortunes frequently occur around 16-year-old Yuuta Okkotsu, a timid victim of high school bullying. Yuuta is saddled with a monstrous curse, a power that dishes out brutal revenge against his bullies. Rika Orimoto, Yuuta's curse, is a shadow from his tragic childhood and a potentially lethal threat to anyone who dares wrong him.
 
