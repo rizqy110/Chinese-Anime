@@ -118,6 +118,48 @@ genre:
 - Slice of Life
 ---
 
+<div class="d-g gg-10">
+<div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-1','_blank')">G Episode 01</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-2','_blank')">G Episode 02</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-3','_blank')">G Episode 03</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-4','_blank')">G Episode 04</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-5','_blank')">G Episode 05</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-6','_blank')">G Episode 06</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-7','_blank')">G Episode 07</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-8','_blank')">G Episode 08</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-9','_blank')">G Episode 09</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-10','_blank')">G Episode 10</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-11','_blank')">G Episode 11</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-12','_blank')">G Episode 12</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-13','_blank')">G Episode 13</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-14','_blank')">G Episode 14</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-15','_blank')">G Episode 15</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-16','_blank')">G Episode 16</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-17','_blank')">G Episode 17</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-18','_blank')">G Episode 18</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-19','_blank')">G Episode 19</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-20','_blank')">G Episode 20</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-21','_blank')">G Episode 21</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-22','_blank')">G Episode 22</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-23','_blank')">G Episode 23</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-24','_blank')">G Episode 24</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-25','_blank')">G Episode 25</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-26','_blank')">G Episode 26</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-27','_blank')">G Episode 27</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-28','_blank')">G Episode 28</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-29','_blank')">G Episode 29</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-30','_blank')">G Episode 30</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-31','_blank')">G Episode 31</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-32','_blank')">G Episode 32</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-33','_blank')">G Episode 33</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-34','_blank')">G Episode 34</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-35','_blank')">G Episode 35</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-36','_blank')">G Episode 36</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-37','_blank')">G Episode 37</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-38','_blank')">G Episode 38</button>
+<button onclick="window.open('?gog=sekai-no-owari-ni-shiba-inu-to-episode-39','_blank')">G Episode 39</button>
+</div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?kwf=anime/SekaiNoOwariNiShibaInuTo/Sekai No Owari Ni Shiba Inu To - 01','_blank')">K Episode 01</button>
 <button onclick="window.open('?kwf=anime/SekaiNoOwariNiShibaInuTo/Sekai No Owari Ni Shiba Inu To - 02','_blank')">K Episode 02</button>
@@ -151,6 +193,7 @@ genre:
 <button onclick="window.open('?kwf=anime/SekaiNoOwariNiShibaInuTo/Sekai No Owari Ni Shiba Inu To - 30','_blank')">K Episode 30</button>
 <button onclick="window.open('?kwf=anime/SekaiNoOwariNiShibaInuTo/Sekai No Owari Ni Shiba Inu To - 31','_blank')">K Episode 31</button>
 <button onclick="window.open('?kwf=anime/SekaiNoOwariNiShibaInuTo/Sekai No Owari Ni Shiba Inu To - 32','_blank')">K Episode 32</button>
+</div>
 </div>
 <div class="bc-1 p-5 d-g gg-5">Synopsis: The sole surviving human and her canine companion, Haru, wander a desolate wasteland after the destruction of civilization, but this is no dark doomsday tale. Haru, a wise-beyond-his-years talking shiba inu, makes sure his master stays one step ahead of post-apocalyptic pessimism with his clever antics, hilarious observations and philosophical ponderings. She may be the last girl on earth, but with Haru at her side, the road through the apocalypse will never be boring!
 
