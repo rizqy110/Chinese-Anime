@@ -1,6 +1,6 @@
 ---
 title: "Futoku No Guild"
-title2: "UNCENSORED - Immoral Guild"
+title2: "Immoral Guild"
 date: 2022-10-12T23:08:01Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1651/128718l.jpg'

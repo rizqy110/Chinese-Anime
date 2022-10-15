@@ -1,6 +1,6 @@
 ---
 title: "Peter Grill to Kenja No Jikan: Super Extra"
-title2: "UNCENSORED - Peter Grill to Kenja no Jikan 2nd Season"
+title2: "Peter Grill to Kenja no Jikan 2nd Season"
 date: 2022-10-12T06:18:56Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1702/128716l.jpg'

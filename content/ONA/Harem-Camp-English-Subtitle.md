@@ -1,6 +1,6 @@
 ---
 title: "Harem Camp!"
-title2: "UNCENSORED - ハーレムきゃんぷっ!"
+title2: "ハーレムきゃんぷっ!"
 date: 2022-10-12T23:43:46Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1669/126883l.jpg'
