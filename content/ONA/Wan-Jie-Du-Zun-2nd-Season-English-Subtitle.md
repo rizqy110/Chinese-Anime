@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1937/127040l.jpg'
 keywords:
 - Watch Donghua Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) English Sub
 - Chinese Anime Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) English Sub
-- Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) Episode 01 English Sub
-- Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

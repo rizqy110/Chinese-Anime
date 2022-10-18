@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1630/125190l.jpg'
 keywords:
 - Watch Donghua Make Money To Be King (Wo Kao Chongzhi Dang Wudi) English Sub
 - Chinese Anime Make Money To Be King (Wo Kao Chongzhi Dang Wudi) English Sub
-- Make Money To Be King (Wo Kao Chongzhi Dang Wudi) Episode 01 English Sub
-- Make Money To Be King (Wo Kao Chongzhi Dang Wudi) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

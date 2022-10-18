@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1544/124684l.jpg'
 keywords:
 - "Watch War God System! I'm Counting On You! (Kao Ni La Zhanshen Xitong) English Sub"
 - "Chinese Anime War God System! I'm Counting On You! (Kao Ni La Zhanshen Xitong) English Sub"
-- "War God System! I'm Counting On You! (Kao Ni La Zhanshen Xitong) Episode 01 English Sub"
-- "War God System! I'm Counting On You! (Kao Ni La Zhanshen Xitong) Episode 02 English Sub"
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

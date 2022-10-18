@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1341/120304l.jpg'
 keywords:
 - Watch Donghua Swallowed Star 2 (Tunshi Xingkong 2nd Season) English Sub
 - Chinese Anime Swallowed Star 2 (Tunshi Xingkong 2nd Season) English Sub
-- Swallowed Star 2 (Tunshi Xingkong 2nd Season) Episode 01 English Sub
-- Swallowed Star 2 (Tunshi Xingkong 2nd Season) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'

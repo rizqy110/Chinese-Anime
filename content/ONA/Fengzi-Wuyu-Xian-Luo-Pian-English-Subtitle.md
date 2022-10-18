@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1224/128792l.jpg'
 keywords:
 - "Watch Donghua The Shape of the Wind: Siam Era (Fengzi Wuyu: Xian Luo Pian) English Sub"
 - "Chinese Anime The Shape of the Wind: Siam Era (Fengzi Wuyu: Xian Luo Pian) English Sub"
-- "The Shape of the Wind: Siam Era (Fengzi Wuyu: Xian Luo Pian) Episode 01 English Sub"
-- "The Shape of the Wind: Siam Era (Fengzi Wuyu: Xian Luo Pian) Episode 02 English Sub"
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

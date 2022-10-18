@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1043/124017l.jpg'
 keywords:
 - Watch Donghua Tomb of Fallen Gods (Shen Mu) English Sub
 - Chinese Anime Tomb of Fallen Gods (Shen Mu) English Sub
-- Tomb of Fallen Gods (Shen Mu) Episode 01 English Sub
-- Tomb of Fallen Gods (Shen Mu) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

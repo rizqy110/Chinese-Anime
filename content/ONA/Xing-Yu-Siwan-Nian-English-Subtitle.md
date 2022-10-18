@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1176/126778l.jpg'
 keywords:
 - Watch Donghua Xing Yu Siwan Nian English Sub
 - Chinese Anime Xing Yu Siwan Nian English Sub
-- Xing Yu Siwan Nian Episode 01 English Sub
-- Xing Yu Siwan Nian Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

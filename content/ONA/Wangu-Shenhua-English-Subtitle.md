@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1971/127030l.jpg'
 keywords:
 - Watch Donghua Myth of the Ancients (Wangu Shenhua) English Sub
 - Chinese Anime Myth of the Ancients (Wangu Shenhua) English Sub
-- Myth of the Ancients (Wangu Shenhua) Episode 01 English Sub
-- Myth of the Ancients (Wangu Shenhua) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

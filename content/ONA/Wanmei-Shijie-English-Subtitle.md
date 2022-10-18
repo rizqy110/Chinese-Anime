@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1793/124106l.jpg'
 keywords:
 - Watch Donghua Perfect World (Wanmei Shijie) English Sub
 - Chinese Anime Perfect World (Wanmei Shijie) English Sub
-- Perfect World (Wanmei Shijie) Episode 01 English Sub
-- Perfect World (Wanmei Shijie) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'

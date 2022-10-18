@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1972/108157l.jpg'
 keywords:
 - Watch Donghua Spirit Sword Sovereign All Season (Ling Jian Zun) English Sub
 - Chinese Anime Spirit Sword Sovereign All Season (Ling Jian Zun) English Sub
-- Spirit Sword Sovereign All Season (Ling Jian Zun) Episode 01 English Sub
-- Spirit Sword Sovereign All Season (Ling Jian Zun) Episode 02 English Sub
 year: '2019'
 type: 'ONA'
 status: 'Currently Airing'

@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1680/119135l.jpg'
 keywords:
 - Watch Donghua Tales of Demons and Gods 5th Season (Yao Shen Ji 5th Season) English Sub
 - Chinese Anime Tales of Demons and Gods 5th Season (Yao Shen Ji 5th Season) English Sub
-- Tales of Demons and Gods 5th Season (Yao Shen Ji 5th Season) Episode 01 English Sub
-- Tales of Demons and Gods 5th Season (Yao Shen Ji 5th Season) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'

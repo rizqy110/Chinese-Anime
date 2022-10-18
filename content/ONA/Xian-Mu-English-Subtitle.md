@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1637/125559l.jpg'
 keywords:
 - Watch Donghua Immortal Tomb (Xian Mu) English Sub
 - Chinese Anime Immortal Tomb (Xian Mu) English Sub
-- Immortal Tomb (Xian Mu) Episode 01 English Sub
-- Immortal Tomb (Xian Mu) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

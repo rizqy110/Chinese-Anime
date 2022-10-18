@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1538/93566l.jpg'
 keywords:
 - Watch Donghua Soul Land 2nd Season (Douluo Dalu 2nd Season) English Sub
 - Chinese Anime Soul Land 2nd Season (Douluo Dalu 2nd Season) English Sub
-- Soul Land 2nd Season (Douluo Dalu 2nd Season) Episode 01 English Sub
-- Soul Land 2nd Season (Douluo Dalu 2nd Season) Episode 02 English Sub
 year: '2018'
 type: 'ONA'
 status: 'Currently Airing'

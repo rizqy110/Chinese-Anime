@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1854/126703l.jpg'
 keywords:
 - Watch Dragon Raja (Long Zu) English Sub
 - Chinese Anime Dragon Raja (Long Zu) English Sub
-- Dragon Raja (Long Zu) Episode 01 English Sub
-- Dragon Raja (Long Zu) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

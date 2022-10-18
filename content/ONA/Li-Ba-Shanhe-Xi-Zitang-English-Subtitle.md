@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1740/126754l.jpg'
 keywords:
 - Watch Donghua Li Ba Shanhe Xi Zitang English Sub
 - Chinese Anime Li Ba Shanhe Xi Zitang English Sub
-- Li Ba Shanhe Xi Zitang Episode 01 English Sub
-- Li Ba Shanhe Xi Zitang Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1830/117534l.jpg'
 keywords:
 - Watch Donghua Jade Dynasty (Zhu Xian) English Sub
 - Chinese Anime Jade Dynasty (Zhu Xian) English Sub
-- Jade Dynasty (Zhu Xian) Episode 01 English Sub
-- Jade Dynasty (Zhu Xian) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

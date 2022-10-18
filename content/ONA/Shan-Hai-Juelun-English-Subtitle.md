@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1272/124773l.jpg'
 keywords:
 - Watch Donghua Fairy Mountain (Shan Hai Juelun) English Sub
 - Chinese Anime Fairy Mountain (Shan Hai Juelun) English Sub
-- Fairy Mountain (Shan Hai Juelun) Episode 01 English Sub
-- Fairy Mountain (Shan Hai Juelun) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'

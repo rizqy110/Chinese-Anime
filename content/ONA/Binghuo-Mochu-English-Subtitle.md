@@ -7,8 +7,6 @@ image: 'https://cdn.myanimelist.net/images/anime/1703/120146l.jpg'
 keywords:
 - Watch Donghua The Magic Chef of Ice and Fire (Binghuo Mochu) English Sub
 - Chinese Anime The Magic Chef of Ice and Fire (Binghuo Mochu) English Sub
-- The Magic Chef of Ice and Fire (Binghuo Mochu) Episode 01 English Sub
-- The Magic Chef of Ice and Fire (Binghuo Mochu) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
