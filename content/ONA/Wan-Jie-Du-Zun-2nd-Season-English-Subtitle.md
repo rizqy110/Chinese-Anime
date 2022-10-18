@@ -10,11 +10,15 @@ keywords:
 - Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) Episode 01 English Sub
 - Ten Thousand Worlds 2nd Season (Wan Jie Du Zun 2nd Season) Episode 02 English Sub
 year: '2022'
-type: 'ONA Movie'
-status: 'Finished Currently Airing'
-episodes: ' Episodes'
+type: 'ONA'
+status: 'Currently Airing'
+episodes: '21/112 Episodes'
 genre:
-- 
+- Action
+- Adventure
+- Fantasy
+- Historical
+- Martial Arts
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
