@@ -1,4 +1,4 @@
-baseURL = 'https://dnime.pages.dev'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Chinese Anime'
 theme = 'anime'
