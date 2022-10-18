@@ -5,52 +5,10 @@ date: 2022-10-14T09:15:46Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1854/126703l.jpg'
 keywords:
-- Anime dragon raja
-- Dragon Raja English Subtitle
-- Dragon Raja English Sub
-- All chinese anime
-- Dragon anime
-- Dragon raja anime
-- Chinese dragon anime
-- Chinese anime sub
-- Chinese animation anime
-- Download chinese anime english sub
-- Chinese anime episode
-- Dragon from anime
-- chinese anime subtitles download
-- chinese anime sub english
-- chinese anime in english
-- chinese series anime
-- anime in chinese
-- chinese anime list
-- anime chinese dragon
-- anime updates
-- chinese episode
-- chinese animes
-- chinese animation
-- chinese anime download
-- anime series anime
-- chinese anime english sub
-- chinese anime episode 1
-- chinese anime
-- ep anime
-- chinese anime series
-- chinese anime to watch
-- anime chinese subtitles
-- anime oriental
-- download chinese anime
-- anime subtitles
-- anime episode
-- chinese anime watch
-- anime with chinese sub
-- anime chinese english sub
-- chinese anime with english subtitles
-- watch anime chinese
-- watch anime chinese sub
-- watch chinese anime
-- animé series
-- series dragon
-- anime series dragon
+- Watch Dragon Raja (Long Zu) English Sub
+- Chinese Anime Dragon Raja (Long Zu) English Sub
+- Dragon Raja (Long Zu) Episode 01 English Sub
+- Dragon Raja (Long Zu) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
@@ -72,6 +30,4 @@ genre:
 <button onclick="window.open('?gog=long-zu-episode-9','_blank')">G Episode 09</button>
 <button onclick="window.open('?gog=long-zu-episode-10','_blank')">G Episode 10</button>
 <button onclick="window.open('?gog=long-zu-episode-11','_blank')">G Episode 11</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Welcome to the real world! This piece of history with dragons records the efforts and sacrifices of generations. The teenager embarks on his own road to becoming a king, friendship, love, growth..
 </div>

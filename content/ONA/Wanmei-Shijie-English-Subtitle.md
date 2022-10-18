@@ -5,106 +5,10 @@ date: 2022-10-14T09:26:32Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1793/124106l.jpg'
 keywords:
-- Perfect world eng sub
-- Animal world chinese movie
-- Chinese animation movies 2021
-- Perfect world chinese anime episode 1
-- Perfect world episode 8
-- Perfect world episode 2
-- Chinese animation anime
-- Perfect world animation
-- Watch online chinese anime
-- Anime sub streaming
-- Chinese anime sub
-- download chinese anime english sub
-- chinese anime episode
-- watch free chinese anime online
-- watch chinese anime online with english subtitles
-- chinese anime subtitles download
-- chinese movie anime
-- watch anime chinese online
-- chinese anime sub english
-- chinese anime in english
-- chinese series anime
-- watch chinese anime eng sub
-- chinese animation video
-- chinese anime movies with english subtitles
-- chinese anime full movie
-- anime in chinese
-- perfect world series
-- chinese animation movies
-- perfect world chinese anime
-- perfect world anime season 1
-- chinese anime episode 1 eng sub
-- anime chinese movie
-- the perfect world anime
-- chinese animes
-- chinese anime 2021
-- perfect world anime season 2
-- perfect world episode 1
-- download anime perfect world
-- chinese animation
-- chinese anime download
-- animation movies chinese
-- perfect anime
-- the world anime
-- chinese animation movies download
-- perfect world anime watch online
-- chinese anime eng sub
-- chinese anime episode 1
-- chinese anime
-- chinese anime series
-- chinese anime series eng sub
-- perfect world season 2
-- chinese anime to watch
-- perfect world anime
-- chinese anime online free
-- anime chinese subtitles
-- anime oriental
-- download chinese anime
-- chinese anime online
-- anime movies chinese
-- perfect world anime movie
-- chinese animation movies in english
-- chinese anime free online
-- chinese anime streaming
-- chinese anime online watch
-- anime the world
-- perfect world episode
-- chinese anime watch
-- anime eng sub
-- anime chinese online
-- perfect world anime episode 1
-- watch perfect world anime online free
-- perfect world anime online
-- chinese anime watch online eng sub
-- watch anime eng sub
-- chinese anime watch online
-- chinese anime series watch online
-- anime sub download
-- chinese anime watch online free
-- streaming anime eng sub
-- anime with chinese subtitles
-- anime chinese english sub
-- chinese anime free watch
-- watch anime eng sub streaming
-- free chinese anime
-- chinese anime with english subtitles
-- watch anime english subbed
-- stream chinese anime
-- perfect world full episode
-- watch anime chinese
-- perfect world english sub
-- watch chinese anime online
-- anime perfect world
-- anime eng sub streaming
-- english subbed anime
-- film anime perfect world
-- watch chinese anime online free
-- watch anime chinese sub
-- watch anime with eng sub
-- watch chinese anime online free english subbed
-- anime sub stream
+- Watch Donghua Perfect World (Wanmei Shijie) English Sub
+- Chinese Anime Perfect World (Wanmei Shijie) English Sub
+- Perfect World (Wanmei Shijie) Episode 01 English Sub
+- Perfect World (Wanmei Shijie) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
@@ -196,12 +100,4 @@ genre:
 <button onclick="window.open('?gog=wanmei-shijie-episode-78','_blank')">G Episode 78</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-79','_blank')">G Episode 79</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-80','_blank')">G Episode 80</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.
-
-His clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.
-
-His journey will bring him through unknown lands until he is able to become a person that can truly shake the world.
-
-(Source: Novels Xianxia&Xuanhuan Wiki)
 </div>

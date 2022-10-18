@@ -5,36 +5,10 @@ date: 2022-10-15T08:33:21Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1538/93566l.jpg'
 keywords:
-- Douluo dalu 2nd season
-- Soul Land 2nd Season English Sub
-- Douluo dalu season 1
-- Douluo dalu
-- Douluo dalu season 2
-- Dou luo da lu
-- Season episode
-- watch douluo dalu
-- watch douluo dalu season 2
-- douluo dalu latest episode
-- douluo dalu episode 1
-- douluo dalu episode
-- douluo dalu watch online
-- douluo dalu episode list
-- douluo dalu season 2 episode 1
-- douluo dalu watch
-- watch in english online
-- douluo season 2
-- dalu douluo
-- episode 204
-- douluo dalu season 2 episode list
-- watch douluo dalu season 1
-- english episode 1
-- douluo dalu season 1 episode 1
-- douluo dalu english
-- douluo dalu 2nd season episode
-- watch douluo
-- watch douluo dalu 2nd season
-- watch online english series
-- watch online english
+- Watch Donghua Soul Land 2nd Season (Douluo Dalu 2nd Season) English Sub
+- Chinese Anime Soul Land 2nd Season (Douluo Dalu 2nd Season) English Sub
+- Soul Land 2nd Season (Douluo Dalu 2nd Season) Episode 01 English Sub
+- Soul Land 2nd Season (Douluo Dalu 2nd Season) Episode 02 English Sub
 year: '2018'
 type: 'ONA'
 status: 'Currently Airing'
@@ -253,6 +227,4 @@ genre:
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-202','_blank')">G Episode 202</button>
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-203','_blank')">G Episode 203</button>
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-204','_blank')">G Episode 204</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Second season of Douluo Dalu.
 </div>

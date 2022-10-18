@@ -5,75 +5,10 @@ date: 2022-10-12T07:52:20Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1341/120304l.jpg'
 keywords:
-- Swallowed star season 2
-- Swallowed star season 2 episode 1
-- Chinese anime
-- Tunshi Xingkong 2nd Season
-- Chinese anime eng sub
-- Swallowed star episode 1
-- Anime watch
-- Swallowed star
-- Anime season
-- Anime star
-- Anime this season
-- swallowed star anime
-- free season 2
-- chinese animation
-- anime eng sub
-- anime in chinese
-- chinese anime 2021
-- swallowed star episode
-- watch anime eng sub
-- free anime season 2
-- anime season 2
-- swallowed star season 2 release date
-- chinese anime donghua
-- watch chinese anime
-- anime season 2 2021
-- chinese anime to watch
-- swallowed star episode 14
-- streaming anime eng sub
-- anime swallowed star
-- chinese anime download
-- swallowed star episode 1 english subtitles
-- season 2 anime 2021
-- anime with 2 seasons
-- anime sub download
-- watch anime eng sub streaming
-- chinese anime streaming
-- english subbed anime
-- swallowed star season 1
-- anime eng sub streaming
-- chinese anime watch
-- free chinese anime
-- anime with season 2
-- download anime free season 2
-- anime eng sub stream
-- anime season 2 release date
-- swallowed star all episode
-- free anime 2 season
-- anime sub streaming
-- anime 2021 season 2
-- chinese anime sub
-- download chinese anime
-- watch anime with eng sub
-- anime sub stream
-- free anime series season 2
-- swallowed star full episode
-- chinese anime with english subtitles
-- anime watch english sub
-- swallowed star season 3 episode 1
-- chinese anime series watch online
-- stream chinese anime
-- free anime season 2 episode 1
-- watch anime chinese
-- free the anime season 2
-- chinese anime watch online eng sub
-- chinese anime series eng sub
-- chinese anime in english
-- chinese anime full episodes
-- watch chinese anime eng sub
-- free anime episode 2 season 1
+- Watch Donghua Swallowed Star 2 (Tunshi Xingkong 2nd Season) English Sub
+- Chinese Anime Swallowed Star 2 (Tunshi Xingkong 2nd Season) English Sub
+- Swallowed Star 2 (Tunshi Xingkong 2nd Season) Episode 01 English Sub
+- Swallowed Star 2 (Tunshi Xingkong 2nd Season) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
@@ -116,6 +51,4 @@ genre:
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-29','_blank')">G Episode 29</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-30','_blank')">G Episode 30</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-31','_blank')">G Episode 31</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Second season of Tunshi Xingkong.
 </div>

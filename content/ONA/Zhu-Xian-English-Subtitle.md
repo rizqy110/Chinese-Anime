@@ -5,19 +5,10 @@ date: 2022-10-12T00:21:40Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1830/117534l.jpg'
 keywords:
-- Zhu xian
-- Jade anime
-- Dynasty anime
-- Anime jade
-- Jade dynasty anime
-- Anime in china
-- All chinese anime
-- Chinese animation anime
-- Chinese anime sub
-- Download chinese anime english sub
-- Chinese series anime
-- chinese anime sub english
-- chinese animation
+- Watch Donghua Jade Dynasty (Zhu Xian) English Sub
+- Chinese Anime Jade Dynasty (Zhu Xian) English Sub
+- Jade Dynasty (Zhu Xian) Episode 01 English Sub
+- Jade Dynasty (Zhu Xian) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
@@ -42,8 +33,4 @@ genre:
 <button onclick="window.open('?gog=zhu-xian-episode-11','_blank')">G Episode 11</button>
 <button onclick="window.open('?gog=zhu-xian-episode-12','_blank')">G Episode 12</button>
 <button onclick="window.open('?gog=zhu-xian-episode-13','_blank')">G Episode 13</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Zhang Xiaofan, who was tragically orphaned overnight, was accepted as a disciple by Qingyunmen. After five years of hard training, he excelled in the martial arts of the Seven Vessels of the Mastermen. Senior sister Lu Xueqi was in danger and met Baguio, the woman who rescued the demon sect. At the same time, new dangers were also waiting for him.
-
-(Source: Tencent Video)
 </div>

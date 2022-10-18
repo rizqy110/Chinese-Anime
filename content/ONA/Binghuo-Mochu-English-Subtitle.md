@@ -5,12 +5,10 @@ date: 2022-10-15T08:51:24Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1703/120146l.jpg'
 keywords:
-- Binghuo Mochu English SUb
-- The Magic Chef of Ice and Fire English SUb
-- Watch Binghuo Mochu English SUb
-- Watch The Magic Chef of Ice and Fire English SUb
-- Binghuo Mochu English SUb Episode 01
-- The Magic Chef of Ice and Fire English SUb Episode 02
+- Watch Donghua The Magic Chef of Ice and Fire (Binghuo Mochu) English Sub
+- Chinese Anime The Magic Chef of Ice and Fire (Binghuo Mochu) English Sub
+- The Magic Chef of Ice and Fire (Binghuo Mochu) Episode 01 English Sub
+- The Magic Chef of Ice and Fire (Binghuo Mochu) Episode 02 English Sub
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
@@ -68,8 +66,4 @@ genre:
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-44','_blank')">G Episode 44</button>
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-45','_blank')">G Episode 45</button>
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-46','_blank')">G Episode 46</button>
-</div>
-<div class="bc-1 p-5 d-g gg-5">Synopsis: Nian Bing is the son of a fire mage and an ice mage. After both of his parents were killed by the Ice Lord, Nian Bing received both of his parents' magic gems. When Nian Bing was trying to escape from the Ice Lord's followers, he managed to cast both fire and ice magic at the same time. An impossible feat for a mage. He fell from the cliff, unconscious, and was saved by an oldman. After he woke up, the oldman gave him a food so delicious he never tasted before. It turned out that the oldman was a genius chef, once called a spirit chef. And he wants Nian Bing to be his disciple no matter what! Is Nian Bing able to seek vengeance while aiming to become the greatest chef?
-
-(Source: MU)
 </div>

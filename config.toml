@@ -1,12 +1,12 @@
 baseURL = 'https://dnime.pages.dev'
 languageCode = 'en-us'
-title = 'Dnime Pages'
+title = 'Chinese Anime'
 theme = 'anime'
 enableRobotsTXT = 'true'
 paginate = 18
 
 [params]
-  Description = 'Best place to watch anime, Watch cartoon network online free, Anime website without ads, Watch old cartoons online free, Free anime websites to watch anime, Best anime streaming site, Official site to Watch and Download Donghua in English, Anime websites to watch anime, Free anime streaming, Best free anime streaming service, Best free anime sites, Free anime sites to watch, Free anime streaming website, Anime websites without ads, Free anime streaming services, Best anime sites to watch anime, Best sites to watch anime, Anime free websites to watch, Anime streaming.'
+  Description = 'Donghua english sub, Lucifer donghua, Chinese anime english sub, Watch donghua online eng sub, Donghua sub english, Watch donghua english sub, Donghua online eng sub, Chinese anime with english subtitles, Donghua anime eng sub, Watch chinese anime eng sub, Chineseanime, Chinese anime watch online, Chinese anime english subtitles.'
   favicon = 'https://img.icons8.com/color/512/tanjiro-kamado.png'
   twitter = 'Rizqy'
 [markup.goldmark.renderer]

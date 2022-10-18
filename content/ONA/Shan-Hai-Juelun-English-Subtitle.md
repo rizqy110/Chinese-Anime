@@ -5,46 +5,10 @@ date: 2022-10-14T01:59:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1272/124773l.jpg'
 keywords:
-- Anime watch
-- Chinese anime
-- Anime fairy
-- Chinese animation
-- Anime eng sub
-- Cartoon fairy
-- Anime in chinese
-- Anime hai
-- watch anime eng sub
-- chinese anime donghua
-- watch chinese anime
-- chinese anime eng sub
-- hai anime
-- chinese anime to watch
-- streaming anime eng sub
-- chinese anime download
-- watch anime eng sub streaming
-- chinese anime streaming
-- english subbed anime
-- anime eng sub streaming
-- chinese anime watch
-- free chinese anime
-- anime eng sub stream
-- anime oriental
-- anime sub streaming
-- chinese anime sub
-- download chinese anime
-- watch anime with eng sub
-- anime sub stream
-- chinese anime with english subtitles
-- watch hai
-- watch fairy
-- stream chinese anime
-- watch anime chinese
-- chinese anime watch online eng sub
-- chinese anime series eng sub
-- animation hai
-- chinese anime in english
-- chinese anime full episodes
-- watch chinese anime eng sub
+- Watch Donghua Fairy Mountain (Shan Hai Juelun) English Sub
+- Chinese Anime Fairy Mountain (Shan Hai Juelun) English Sub
+- Fairy Mountain (Shan Hai Juelun) Episode 01 English Sub
+- Fairy Mountain (Shan Hai Juelun) Episode 02 English Sub
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
