@@ -6,7 +6,7 @@ enableRobotsTXT = 'true'
 paginate = 18
 
 [params]
-  Description = 'Donghua english sub, Lucifer donghua, Chinese anime english sub, Watch donghua online eng sub, Donghua sub english, Watch donghua english sub, Donghua online eng sub, Chineseanime.'
+  Description = 'Donghua english sub, Lucifer donghua, Chinese anime english sub, Watch donghua online eng sub, Donghua sub english, Donghua online eng sub, Chineseanime.'
   favicon = 'https://i3.wp.com/www.chineseanime.co.in/wp-content/uploads/2021/09/cropped-4865770.jpg'
   twitter = 'Rizqy'
 [markup.goldmark.renderer]
