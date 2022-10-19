@@ -17,11 +17,14 @@ function getUrlParam(parameter, defaultvalue){
 var kwf = getUrlParam('kwf',null);
 var kwf2 = getUrlParam('kwf2',null);
 var gog = getUrlParam('gog',null);
+var luc = getUrlParam('luc',null);
 
 var encryptkwf = decodeURIComponent(kwf);
 var encryptkwf2 = decodeURIComponent(kwf2);
+var encryptluc = decodeURIComponent(luc);
 
 var gstream = "<iframe class='p-a' id='plyr' referrerpolicy='no-referrer' src='https://rr-avideo.herokuapp.com/apigogo.php?id="+ gog +"' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no' marginheight='0' marginwidth='0'></iframe>";
+var lucifer = "<iframe class='p-a' id='plyr' referrerpolicy='no-referrer' src='https://rr-avideo.herokuapp.com/iframe.php?url=https://luciferdonghua.in/s"+ encryptluc +"' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no' marginheight='0' marginwidth='0'></iframe>";
 
 var kstream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://s1.primuscdn.xyz/"+ kwf +".mp4' type='video/mp4'></Video>";
 var k2stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://s2.primuscdn.xyz/"+ kwf2 +".mp4' type='video/mp4'></Video>";

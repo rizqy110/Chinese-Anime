@@ -1,7 +1,7 @@
 ---
 title: "Tunshi Xingkong 2nd Season"
 title2: "Swallowed Star"
-date: 2022-10-12T07:52:20Z
+date: 2022-10-19T05:17:52Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1341/120304l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '31/52 Episodes'
+episodes: '32/52 Episodes'
 genre:
 - Action
 - Adventure
@@ -49,4 +49,5 @@ genre:
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-29','_blank')">G Episode 29</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-30','_blank')">G Episode 30</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-31','_blank')">G Episode 31</button>
+<button onclick="window.open('?luc=wallowed-star-season-2-episode-58-32-subtitle','_blank')">G Episode 32</button>
 </div>
