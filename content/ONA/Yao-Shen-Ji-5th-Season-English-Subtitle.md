@@ -1,7 +1,7 @@
 ---
 title: "Yao Shen Ji 5th Season"
 title2: "Tales of Demons and Gods 5th Season"
-date: 2022-10-15T08:53:24Z
+date: 2022-10-19T09:03:24Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1680/119135l.jpg'
 keywords:
@@ -9,8 +9,8 @@ keywords:
 - Chinese Anime Tales of Demons and Gods 5th Season (Yao Shen Ji 5th Season) English Sub
 year: '2021'
 type: 'ONA'
-status: 'Currently Airing'
-episodes: '103/104 Episodes'
+status: 'Finished Airing'
+episodes: '104 Episodes'
 genre:
 - Action
 - Adventure
@@ -124,4 +124,5 @@ genre:
 <button onclick="window.open('?gog=yao-shen-ji-5th-season-episode-101','_blank')">G Episode 101</button>
 <button onclick="window.open('?gog=yao-shen-ji-5th-season-episode-102','_blank')">G Episode 102</button>
 <button onclick="window.open('?gog=yao-shen-ji-5th-season-episode-103','_blank')">G Episode 103</button>
+<button onclick="window.open('?gog=yao-shen-ji-5th-season-episode-104','_blank')">G Episode 104</button>
 </div>

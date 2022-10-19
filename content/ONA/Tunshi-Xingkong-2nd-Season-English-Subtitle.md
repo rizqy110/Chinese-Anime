@@ -49,5 +49,5 @@ genre:
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-29','_blank')">G Episode 29</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-30','_blank')">G Episode 30</button>
 <button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-31','_blank')">G Episode 31</button>
-<button onclick="window.open('?luc=wallowed-star-season-2-episode-58-32-subtitle','_blank')">G Episode 32</button>
+<button onclick="window.open('?gog=tunshi-xingkong-2nd-season-episode-32','_blank')">G Episode 32</button>
 </div>
