@@ -5,9 +5,6 @@
 </div>
 
 <div class="bc-1 p-5 o-h d-g gg-5">
-  <p class="d-n">
-    {{ delimit .Params.keywords ", " }}
-  </p>
   <div class="d-g gg-5 gtc-mi ai-c">
     <div class="to-e o-h d-g gg-5">
       <h2 class="fs-15 o-h c-3 to-e d-2le">
@@ -22,6 +19,8 @@
 <div class="o-a max-h">{{- .Content -}}</div>
 
 <div class="bc-1 p-5 d-g gg-5">
-  <h3 class="fs-15 c-1 ta-c">Comments App</h3>
+  <p class="fs-15">
+    Tags: {{ delimit .Params.keywords ", " }}
+  </p>
   <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="m0PT2pHL" data-limit="5" data-color="209CEE" data-colorful="1" data-dark="1"></script>
 </div>
