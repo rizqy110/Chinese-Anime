@@ -1,7 +1,7 @@
 ---
 title: "Zhu Xian"
 title2: "Jade Dynasty"
-date: 2022-10-12T00:21:40Z
+date: 2022-10-19T03:39:32Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1830/117534l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '13/26 Episodes'
+episodes: '14/26 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -31,4 +31,5 @@ genre:
 <button onclick="window.open('?gog=zhu-xian-episode-11','_blank')">G Episode 11</button>
 <button onclick="window.open('?gog=zhu-xian-episode-12','_blank')">G Episode 12</button>
 <button onclick="window.open('?gog=zhu-xian-episode-13','_blank')">G Episode 13</button>
+<button onclick="window.open('?gog=zhu-xian-episode-14','_blank')">G Episode 14</button>
 </div>
