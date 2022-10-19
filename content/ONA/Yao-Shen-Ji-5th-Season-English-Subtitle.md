@@ -10,7 +10,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '102/104 Episodes'
+episodes: '103/104 Episodes'
 genre:
 - Action
 - Adventure
