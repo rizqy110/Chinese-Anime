@@ -26,4 +26,4 @@ paginate = 18
     weight = 90
   [[related.indices]]
     name = "type"
-    weight = 90
+    weight = 80
