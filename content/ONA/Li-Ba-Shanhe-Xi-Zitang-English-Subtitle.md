@@ -1,7 +1,7 @@
 ---
 title: "Li Ba Shanhe Xi Zitang"
 title2: "力拔山河兮子唐"
-date: 2022-10-13T06:00:30Z
+date: 2022-10-20T12:53:51Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1740/126754l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '16/20 Episodes'
+episodes: '18/20 Episodes'
 genre:
 - Action
 - Fantasy
@@ -35,4 +35,6 @@ genre:
 <button onclick="window.open('?gog=li-ba-shanhe-xi-zi-tang-episode-14','_blank')">G Episode 14</button>
 <button onclick="window.open('?gog=li-ba-shanhe-xi-zi-tang-episode-15','_blank')">G Episode 15</button>
 <button onclick="window.open('?gog=li-ba-shanhe-xi-zi-tang-episode-16','_blank')">G Episode 16</button>
+<button onclick="window.open('?gog=li-ba-shanhe-xi-zi-tang-episode-17','_blank')">G Episode 17</button>
+<button onclick="window.open('?gog=li-ba-shanhe-xi-zi-tang-episode-18','_blank')">G Episode 18</button>
 </div>

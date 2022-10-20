@@ -1,7 +1,7 @@
 ---
 title: "Wangu Shenhua"
 title2: "Myth of the Ancients"
-date: 2022-10-13T05:44:56Z
+date: 2022-10-20T12:55:51Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1971/127030l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '16/30 Episodes'
+episodes: '23/30 Episodes'
 genre:
 - Action
 - Adventure
@@ -40,4 +40,6 @@ genre:
 <button onclick="window.open('?gog=wangu-shenhua-episode-19','_blank')">G Episode 19</button>
 <button onclick="window.open('?gog=wangu-shenhua-episode-20','_blank')">G Episode 20</button>
 <button onclick="window.open('?gog=wangu-shenhua-episode-21','_blank')">G Episode 21</button>
+<button onclick="window.open('?gog=wangu-shenhua-episode-22','_blank')">G Episode 22</button>
+<button onclick="window.open('?gog=wangu-shenhua-episode-23','_blank')">G Episode 23</button>
 </div>
