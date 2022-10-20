@@ -1,7 +1,7 @@
 ---
 title: "Xinghe Zhizun"
 title2: "Supreme Galaxy"
-date: 2022-10-19T07:56:17Z
+date: 2022-10-20T09:52:07Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1013/122792l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '99/? Episodes'
+episodes: '100/? Episodes'
 genre:
 - Action
 - Fantasy
@@ -118,4 +118,5 @@ genre:
 <button onclick="window.open('?gog=xinghe-zhizun-episode-97','_blank')">G Episode 97</button>
 <button onclick="window.open('?gog=xinghe-zhizun-episode-98','_blank')">G Episode 98</button>
 <button onclick="window.open('?gog=xinghe-zhizun-episode-99','_blank')">G Episode 99</button>
+<button onclick="window.open('?gog=xinghe-zhizun-episode-100','_blank')">G Episode 100</button>
 </div>
