@@ -1,7 +1,7 @@
 ---
 title: "Shan Hai Juelun"
 title2: "Fairy Mountain"
-date: 2022-10-14T01:59:09Z
+date: 2022-10-20T07:05:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1272/124773l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '10/? Episodes'
+episodes: '11/? Episodes'
 genre:
 - Action
 - Fantasy
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?gog=shan-hai-juelun-episode-8','_blank')">G Episode 08</button>
 <button onclick="window.open('?gog=shan-hai-juelun-episode-9','_blank')">G Episode 09</button>
 <button onclick="window.open('?gog=shan-hai-juelun-episode-10','_blank')">G Episode 10</button>
+<button onclick="window.open('?gog=shan-hai-juelun-episode-11','_blank')">G Episode 11</button>
 </div>

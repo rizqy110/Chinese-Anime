@@ -1,7 +1,7 @@
 ---
 title: "Shen Mu"
 title2: "Tomb of Fallen Gods"
-date: 2022-10-14T01:37:32Z
+date: 2022-10-20T07:06:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1043/124017l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '14/16 Episodes'
+episodes: '15/16 Episodes'
 genre:
 - Action
 - Adventure
@@ -33,4 +33,5 @@ genre:
 <button onclick="window.open('?gog=shen-mu-episode-12','_blank')">G Episode 12</button>
 <button onclick="window.open('?gog=shen-mu-episode-13','_blank')">G Episode 13</button>
 <button onclick="window.open('?gog=shen-mu-episode-14','_blank')">G Episode 14</button>
+<button onclick="window.open('?luc=tomb-of-fallen-gods-shen-mu-episode-15-subtitle-2','_blank')">G Episode 15</button>
 </div>
