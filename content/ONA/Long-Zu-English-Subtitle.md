@@ -1,7 +1,7 @@
 ---
 title: "Long Zu"
 title2: "Dragon Raja"
-date: 2022-10-14T09:15:46Z
+date: 2022-10-21T06:05:34Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1854/126703l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '11/16 Episodes'
+episodes: '12/16 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?gog=long-zu-episode-9','_blank')">G Episode 09</button>
 <button onclick="window.open('?gog=long-zu-episode-10','_blank')">G Episode 10</button>
 <button onclick="window.open('?gog=long-zu-episode-11','_blank')">G Episode 11</button>
+<button onclick="window.open('?luc=dragon-raja-episode-12-subtitle','_blank')">G Episode 12</button>
 </div>
