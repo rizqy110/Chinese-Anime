@@ -1,7 +1,7 @@
 ---
 title: "Kao Ni La Zhanshen Xitong"
 title2: "War God System! I'm Counting On You!"
-date: 2022-10-14T09:03:05Z
+date: 2022-10-21T05:33:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1544/124684l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '13/16 Episodes'
+episodes: '14/16 Episodes'
 genre:
 - Action
 - Comedy
@@ -32,4 +32,5 @@ genre:
 <button onclick="window.open('?gog=kao-ni-la-zhanshen-xitong-episode-11','_blank')">G Episode 11</button>
 <button onclick="window.open('?gog=kao-ni-la-zhanshen-xitong-episode-12','_blank')">G Episode 12</button>
 <button onclick="window.open('?gog=kao-ni-la-zhanshen-xitong-episode-13','_blank')">G Episode 13</button>
+<button onclick="window.open('?gog=kao-ni-la-zhanshen-xitong-episode-14','_blank')">G Episode 14</button>
 </div>

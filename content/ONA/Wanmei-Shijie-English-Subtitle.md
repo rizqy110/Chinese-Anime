@@ -1,7 +1,7 @@
 ---
 title: "Wanmei Shijie"
 title2: "Perfect World"
-date: 2022-10-14T09:26:32Z
+date: 2022-10-21T06:01:34Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1793/124106l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '80/130 Episodes'
+episodes: '81/130 Episodes'
 genre:
 - Action
 - Adventure
@@ -98,4 +98,5 @@ genre:
 <button onclick="window.open('?gog=wanmei-shijie-episode-78','_blank')">G Episode 78</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-79','_blank')">G Episode 79</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-80','_blank')">G Episode 80</button>
+<button onclick="window.open('?luc=perfect-world-wanmei-shijie-episode-81-subtitle','_blank')">G Episode 81</button>
 </div>

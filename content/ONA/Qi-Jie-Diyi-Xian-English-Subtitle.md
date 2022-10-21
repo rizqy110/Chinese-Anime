@@ -1,7 +1,7 @@
 ---
 title: "Qi Jie Diyi Xian"
 title2: "The First Immortal of the Seven Realms"
-date: 2022-10-20T12:44:35Z
+date: 2022-10-21T06:00:34Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1429/121111l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '72/120 Episodes'
+episodes: '73/120 Episodes'
 genre:
 - Action
 - Adventure
@@ -92,4 +92,5 @@ genre:
 <button onclick="window.open('?gog=qi-jie-diyi-xian-episode-70','_blank')">G Episode 70</button>
 <button onclick="window.open('?gog=qi-jie-diyi-xian-episode-71','_blank')">G Episode 71</button>
 <button onclick="window.open('?gog=qi-jie-diyi-xian-episode-72','_blank')">G Episode 72</button>
+<button onclick="window.open('?gog=qi-jie-diyi-xian-episode-73','_blank')">G Episode 73</button>
 </div>
