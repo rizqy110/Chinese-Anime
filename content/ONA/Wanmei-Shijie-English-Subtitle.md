@@ -98,5 +98,5 @@ genre:
 <button onclick="window.open('?gog=wanmei-shijie-episode-78','_blank')">G Episode 78</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-79','_blank')">G Episode 79</button>
 <button onclick="window.open('?gog=wanmei-shijie-episode-80','_blank')">G Episode 80</button>
-<button onclick="window.open('?luc=perfect-world-wanmei-shijie-episode-81-subtitle','_blank')">G Episode 81</button>
+<button onclick="window.open('?gog=wanmei-shijie-episode-81','_blank')">G Episode 81</button>
 </div>

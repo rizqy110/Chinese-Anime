@@ -1,7 +1,7 @@
 ---
 title: "Ling Jian Zun All Season"
 title2: "Spirit Sword Sovereign All Season"
-date: 2022-10-18T10:41:46Z
+date: 2022-10-21T07:41:46Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1972/108157l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2019'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '324/? Episodes'
+episodes: '325/? Episodes'
 genre:
 - Action
 - Adventure
@@ -344,4 +344,5 @@ genre:
 <button onclick="window.open('?gog=ling-jian-zun-episode-322','_blank')">G Episode 322</button>
 <button onclick="window.open('?gog=ling-jian-zun-episode-323','_blank')">G Episode 323</button>
 <button onclick="window.open('?gog=ling-jian-zun-episode-324','_blank')">G Episode 324</button>
+<button onclick="window.open('?gog=ling-jian-zun-episode-325','_blank')">G Episode 325</button>
 </div>
