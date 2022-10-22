@@ -1,7 +1,7 @@
 ---
 title: "Binghuo Mochu"
 title2: "The Magic Chef of Ice and Fire"
-date: 2022-10-15T08:51:24Z
+date: 2022-10-22T09:24:34Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1703/120146l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '46/52 Episodes'
+episodes: '47/52 Episodes'
 genre:
 - Action
 - Adventure
@@ -64,4 +64,5 @@ genre:
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-44','_blank')">G Episode 44</button>
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-45','_blank')">G Episode 45</button>
 <button onclick="window.open('?gog=bing-huo-mo-chu-episode-46','_blank')">G Episode 46</button>
+<button onclick="window.open('?gog=bing-huo-mo-chu-episode-47','_blank')">G Episode 47</button>
 </div>

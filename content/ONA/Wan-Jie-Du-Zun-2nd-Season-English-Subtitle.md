@@ -1,7 +1,7 @@
 ---
 title: "Wan Jie Du Zun 2nd Season"
 title2: "Ten Thousand Worlds 2nd Season"
-date: 2022-10-18T10:22:34Z
+date: 2022-10-22T09:22:34Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1937/127040l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '21/112 Episodes'
+episodes: '22/112 Episodes'
 genre:
 - Action
 - Adventure
@@ -41,4 +41,5 @@ genre:
 <button onclick="window.open('?gog=wan-jie-du-zun-2nd-season-episode-19','_blank')">G Episode 19</button>
 <button onclick="window.open('?gog=wan-jie-du-zun-2nd-season-episode-20','_blank')">G Episode 20</button>
 <button onclick="window.open('?gog=wan-jie-du-zun-2nd-season-episode-21','_blank')">G Episode 21</button>
+<button onclick="window.open('?gog=wan-jie-du-zun-2nd-season-episode-22','_blank')">G Episode 22</button>
 </div>
