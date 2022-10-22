@@ -225,5 +225,5 @@ genre:
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-202','_blank')">G Episode 202</button>
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-203','_blank')">G Episode 203</button>
 <button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-204','_blank')">G Episode 204</button>
-<button onclick="window.open('?luc=douluo-dalu-soul-land-season-2-episode-231-205-subtitle','_blank')">G Episode 205</button>
+<button onclick="window.open('?gog=douluo-dalu-2nd-season-episode-205','_blank')">G Episode 205</button>
 </div>

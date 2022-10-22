@@ -1,7 +1,7 @@
 ---
 title: "Wo Kao Chongzhi Dang Wudi"
 title2: "Make Money To Be King"
-date: 2022-10-18T10:05:47Z
+date: 2022-10-22T06:15:31Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1630/125190l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '39/60 Episodes'
+episodes: '40/60 Episodes'
 genre:
 - Action
 - Fantasy
@@ -57,4 +57,5 @@ genre:
 <button onclick="window.open('?gog=wo-kao-chongzhi-dang-wudi-episode-37','_blank')">G Episode 37</button>
 <button onclick="window.open('?gog=wo-kao-chongzhi-dang-wudi-episode-38','_blank')">G Episode 38</button>
 <button onclick="window.open('?gog=wo-kao-chongzhi-dang-wudi-episode-39','_blank')">G Episode 39</button>
+<button onclick="window.open('?gog=wo-kao-chongzhi-dang-wudi-episode-40','_blank')">G Episode 40</button>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Xian Mu"
 title2: "Immortal Tomb"
-date: 2022-10-18T09:26:49Z
+date: 2022-10-22T06:16:31Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1637/125559l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Currently Airing'
-episodes: '35/60 Episodes'
+episodes: '36/60 Episodes'
 genre:
 - Adventure
 ---
@@ -51,4 +51,5 @@ genre:
 <button onclick="window.open('?gog=xian-mu-episode-33','_blank')">G Episode 33</button>
 <button onclick="window.open('?gog=xian-mu-episode-34','_blank')">G Episode 34</button>
 <button onclick="window.open('?gog=xian-mu-episode-35','_blank')">G Episode 35</button>
+<button onclick="window.open('?gog=xian-mu-episode-36','_blank')">G Episode 36</button>
 </div>
