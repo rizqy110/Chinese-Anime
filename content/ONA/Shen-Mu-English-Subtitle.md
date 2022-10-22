@@ -33,5 +33,5 @@ genre:
 <button onclick="window.open('?gog=shen-mu-episode-12','_blank')">G Episode 12</button>
 <button onclick="window.open('?gog=shen-mu-episode-13','_blank')">G Episode 13</button>
 <button onclick="window.open('?gog=shen-mu-episode-14','_blank')">G Episode 14</button>
-<button onclick="window.open('?luc=tomb-of-fallen-gods-shen-mu-episode-15-subtitle-2','_blank')">G Episode 15</button>
+<button onclick="window.open('?gog=shen-mu-episode-15','_blank')">G Episode 15</button>
 </div>
